@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://twitter.com/erpushpendra9" target="blank"><img src="https://img.shields.io/twitter/follow/erpushpendra9?logo=twitter&style=for-the-badge" alt="erpushpendra9" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+## Portfolio 🔗 [https://pushpendrashukla19.github.io/pushpendrashukla/]
+## Resume 🔗 [https://1drv.ms/b/c/353051640bfc5756/IQD9b3LqdmYxS7Rd8FGJ5-aHATVRtzvuNCWWGcR0IRZYNLY?e=6qaby7]
 <p align="left">
 <a href="https://twitter.com/erpushpendra9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erpushpendra9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pushpendra-kumar-shukla-7817ba164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendra kumar shukla" height="30" width="40" /></a>
